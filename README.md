@@ -1,10 +1,1 @@
-Day-5
-Today is the day of completing 100 python projects.
-The goal of today is to make a program which generates password which is combination of symbols, letters and numbers.
-"To solve this I thought of using random function to generate number and as for letters and symbols creating a list for each and use random function for accessing those letters and symbols."
-To achieve the instructor Angela Yu is teaching about loops.
-To understand for loops the instructor shows sum function using for loop and gave me a challenge to write code for max function using for loop and I had made it.
-After going with loops , instructor goes on with range function and again she gave me a challenge and it's a piece of cake to me as I learned a bit of python.
-The instructor says that the has easy level and hard level. I tried the easy level with my logic and it's just the same as easy level. Now I wonder how to do the hard level.
-I had my thought processed very intense , but the solution for the hard level is the one of the processes I had thought when I'm solving easy level. I just laugh at my self after seeing some solution and made it.
-I learned the shuffle in random module which is used to shuffle the elements in lists and the syntax is random.shuffle(list_name)
+
