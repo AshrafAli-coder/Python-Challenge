@@ -1,0 +1,14 @@
+Day-6
+Today is the day 6 of completing 100 days challenge of python.
+In today's lecture the instructor Angela Yu taught about functions. To understand more better she told me about a website called "Reborg's World".
+Where we have to use defined functions to play or move the robot in the maze or chessboard. It had so much fun in learning the functions like this.
+After that the Instructor told about the importance of Identation along with Tab Vs Space to Indent with a movie scene which is in Silicon Valley.
+Next she taught about while loop and again used the "Reborg's World" website to understand it better.
+Then she told about the differences between for and while loop and when to use it.
+Actually she showed us there are four hurdles in Reborg's World and I have completed the three hurdles with ease.
+But the fourth one is difficult one it takes sometime to solve that but I achieved it.
+Now it's time to write the code for our final project which is to help robot to get out of the maze.
+At first I thought it's hard and gone into complex way and for some condition's it's executed but for other it's not.
+So I erased the code and again read over the instruction and tried then I have made it. 
+But when I execute this code for around 45 times it fails 1 time I don't understand so I see the solution the thing is that instead of if I just had used while statements.
+Today I learned a lesson to not to think in complex way and always try to simply the code and read over and over again the instructions.
