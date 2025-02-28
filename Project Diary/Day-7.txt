@@ -1,0 +1,12 @@
+Day-7
+Today is day 7 of completing 100days with 100 projects.
+The goal of today is to make a hangman game.
+The game is simple I have to guess the word without losing all the lives.
+The Instructor made 5 steps to achieve today's goal.
+In step 1 she teaches how to check whether the letter is correct in our word.
+we define the list with words. 
+In step 2 she tells how to print the blanks for the choosen word from the list and how to place the correct letter in correct position guessed by user.
+In step 3 we make our programme to run until user guesses the correct word and we also make sure that previous guessed correct letter should be there too.
+In step 4 we focus about drawing or showing hangman process and lives.
+So In step 5 I started to try or achieve this code on my own. At first I got some hurdles but I overcome it with simple thinking process and finally able to achive.
+Now I'm enjoying the game I created with my friends too..
