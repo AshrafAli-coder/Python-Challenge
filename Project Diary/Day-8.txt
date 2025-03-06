@@ -1,0 +1,13 @@
+Day-8
+Today is day 8 of completing the 100 days python project challenge.
+As of today's goal I have to create a Caesar Cipher which converting a message into encrypted message and decode it.
+So it follows simple rule that if the A is counted as 0 then B is 1 etc..
+If the shift is 3 then A is written as D.
+So regarding that she revised about functions how to create and use it.
+She teaches about what is parameter and what is argument in function.
+Next she explains about multiple arguments and how it used in functions and she also explains about positional and keyword arguments too.
+So as per next part she entrusts me to develop encryption and after I created my own code I saw the solution and my code is a bit harder than her. I used an extra list and I also used if statement where she uses a different logic.
+So next she advised to create decrypt function for decryption so I used the logic which is used in encryption by her so in my programme I have two logics.
+Next she advised to create a new function ceaser which combines both encrypt and decrypt function.
+Next she asks to made some modifications like to run the function until user wants and print logo. And last I successfully completed the code
+It is really fun while making these types of codes...
