@@ -1,0 +1,7 @@
+Day-9
+Today is day 9 of completing 100 days projects. 
+Today's goal is to create a program that conducts secret auction.
+For that She started to teach about dictionaries. How to create it and use it and she explains about basic operations of dictionaries first.
+Then she teaches about nested dictionaries and reminds of nested list.
+Now its time to write the solution for the project. I came up with a simple solution and when I check the solution of her ,her solution a bit complex than mine and she define a function where didn't and for calculating the winner she advices to use max function so I change max instead of using  for loop.
+Finally It's done and my silent bidding project is ready
