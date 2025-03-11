@@ -1,0 +1,8 @@
+Day-10
+Today is day 10 of completing 100 projects in 100days.
+So Today's project goal is to build a simple calculator by using functions.
+Since we already know functions she decided to go deeper or advanced methods in functions that is just writing a function which output too.
+To understand this better she just explain the program of taking first and last name and converting them title case using title function.
+After she explains how to use multiple return statements in a function.
+She gave me a bonus tip of how to create a docstring for functions, to create it after function declaration in the first identation line we use triple quotes like ''' and end with same triple quotes '''.
+Then after that I completed my code and when I check the solution its almost the same and I'm very happy for that...
